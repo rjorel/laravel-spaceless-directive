@@ -1,0 +1,20 @@
+{
+    "name": "rjorel/laravel-spaceless-blade",
+    "description": "Spaceless directive for Blade",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphael Jorel",
+            "email": "raphael.jorel@laposte.net"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
